@@ -1,0 +1,9 @@
+README.md
+setup.py
+PointIns3D.egg-info/PKG-INFO
+PointIns3D.egg-info/SOURCES.txt
+PointIns3D.egg-info/dependency_links.txt
+PointIns3D.egg-info/top_level.txt
+pointins3d/ops/src/cuda.cu
+pointins3d/ops/src/pointins3d_api.cpp
+pointins3d/ops/src/pointins3d_ops.cpp

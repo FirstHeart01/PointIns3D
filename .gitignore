@@ -1,0 +1,11 @@
+.vscode
+backup
+build
+dataset/stpls3d/train
+dataset/stpls3d/val
+dataset/instancebuilding
+work_dirs
+results
+.dist_test
+log
+lib
